@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mobile_gps_gyroscope_demo/static/css/main.bfb4dc71.chunk.css",
+    "main.js": "/mobile_gps_gyroscope_demo/static/js/main.f50d5ebd.chunk.js",
+    "main.js.map": "/mobile_gps_gyroscope_demo/static/js/main.f50d5ebd.chunk.js.map",
+    "runtime-main.js": "/mobile_gps_gyroscope_demo/static/js/runtime-main.da852fb4.js",
+    "runtime-main.js.map": "/mobile_gps_gyroscope_demo/static/js/runtime-main.da852fb4.js.map",
+    "static/js/2.4e83e883.chunk.js": "/mobile_gps_gyroscope_demo/static/js/2.4e83e883.chunk.js",
+    "static/js/2.4e83e883.chunk.js.map": "/mobile_gps_gyroscope_demo/static/js/2.4e83e883.chunk.js.map",
+    "static/js/3.9b72e323.chunk.js": "/mobile_gps_gyroscope_demo/static/js/3.9b72e323.chunk.js",
+    "static/js/3.9b72e323.chunk.js.map": "/mobile_gps_gyroscope_demo/static/js/3.9b72e323.chunk.js.map",
+    "index.html": "/mobile_gps_gyroscope_demo/index.html",
+    "static/css/main.bfb4dc71.chunk.css.map": "/mobile_gps_gyroscope_demo/static/css/main.bfb4dc71.chunk.css.map",
+    "static/js/2.4e83e883.chunk.js.LICENSE.txt": "/mobile_gps_gyroscope_demo/static/js/2.4e83e883.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.da852fb4.js",
+    "static/js/2.4e83e883.chunk.js",
+    "static/css/main.bfb4dc71.chunk.css",
+    "static/js/main.f50d5ebd.chunk.js"
+  ]
+}
